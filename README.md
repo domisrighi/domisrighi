@@ -29,8 +29,8 @@ I'm 22 years old and studying Internet Systems.
 </div>
 <br>
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=domisrighi&show_icons=true&theme=merko"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domisrighi&layout=compact&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=domisrighi&show_icons=true&theme=ocean_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domisrighi&layout=compact&theme=ocean_dark"/>
 </div>
 
 #
